@@ -4,7 +4,8 @@ const termSelect = document.getElementById("term");
 const searchInput = document.getElementById("search");
 
 let eventsData = events; // Use the events array from events.js
-let activeCategory = "All";
+// let activeCategory = "All";
+let activeCategory = "Applications & Admissions";
 let activeTerm = "All";
 let searchTerm = "";
 
