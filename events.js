@@ -11,14 +11,14 @@ const events = [
     "date": "2025-07-01",
     "description": "Applications open for fall term",
     "term": "Spring/Summer 2025",
-    "category": "Applications & Admissions"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "Final day to apply for transfer credit and PLAR for summer term",
     "date": "2025-07-02",
     "description": "Receive tuition refund (most full-time programs)",
     "term": "Spring/Summer 2025",
-    "category": "Applications & Admissions"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "Spring/Summer mid-term break",
@@ -39,14 +39,14 @@ const events = [
     "date": "2025-07-07",
     "description": "",
     "term": "Spring/Summer 2025",
-    "category": "Start/End of Term"
+    "category": "Term Dates & Schedules"
   },
   {
     "title": "Spring withdrawal deadline",
     "date": "2025-07-16",
     "description": "Deadline for 15-week courses",
     "term": "Spring/Summer 2025",
-    "category": "Registration / Add-Drop"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "Tuition payment deadline - continuing Summer 2025 students",
@@ -67,14 +67,14 @@ const events = [
     "date": "2025-08-01",
     "description": "",
     "term": "Spring/Summer 2025",
-    "category": "Applications & Admissions"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "Applications open for full-time programs starting fall and summer 2026",
     "date": "2025-08-01",
     "description": "For international students",
     "term": "Spring/Summer 2025",
-    "category": "Applications & Admissions"
+    "category": "Application & Admissions"
   },
   {
     "title": "Civic Holiday",
@@ -95,28 +95,28 @@ const events = [
     "date": "2025-08-09",
     "description": "Deadline for 8-week courses",
     "term": "Spring/Summer 2025",
-    "category": "Registration / Add-Drop"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "Final exam week",
     "date": "2025-08-18",
     "description": "For 15-week spring courses starting week of May 9 (Aug 18-21)",
     "term": "Spring/Summer 2025",
-    "category": "Exams"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "End of spring/summer term",
     "date": "2025-08-21",
     "description": "",
     "term": "Spring/Summer 2025",
-    "category": "Start/End of Term"
+    "category": "Term Dates & Schedules"
   },
   {
     "title": "Add/drop period opens for fall semester",
     "date": "2025-08-25",
     "description": "",
     "term": "Fall 2025",
-    "category": "Registration / Add-Drop"
+    "category": "Registration & Enrollment"
   },
   {
     "title": "Labour Day",
@@ -130,21 +130,21 @@ const events = [
     "date": "2025-09-01",
     "description": "",
     "term": "Fall 2025",
-    "category": "Graduation"
+    "category": "Graduation & Degrees"
   },
   {
     "title": "Fall classes commence",
     "date": "2025-09-02",
     "description": "",
     "term": "Fall 2025",
-    "category": "Start/End of Term"
+    "category": "Term Dates & Schedules"
   },
   {
     "title": "Apply to graduate open for Winter 2026 convocation",
     "date": "2025-09-02",
     "description": "",
     "term": "Fall 2025",
-    "category": "Graduation"
+    "category": "Graduation & Degrees"
   },
   {
     "title": "Tuition payment deadline - continuing students",
@@ -158,21 +158,21 @@ const events = [
     "date": "2025-09-12",
     "description": "Receive tuition refund (most full-time programs)",
     "term": "Fall 2025",
-    "category": "Applications & Admissions"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "Add/drop period ends for most full-time programs",
     "date": "2025-09-12",
     "description": "",
     "term": "Fall 2025",
-    "category": "Registration / Add-Drop"
+    "category": "Registration & Enrollment"
   },
   {
     "title": "Final day to opt-out or add family to Saitsa health and dental plan",
     "date": "2025-09-12",
     "description": "",
     "term": "Fall 2025",
-    "category": "Applications & Admissions"
+    "category": "Registration & Enrollment"
   },
   {
     "title": "National Day for Truth and Reconciliation",
@@ -186,7 +186,7 @@ const events = [
     "date": "2025-10-01",
     "description": "",
     "term": "Fall 2025",
-    "category": "Applications & Admissions"
+    "category": "Application & Admissions"
   },
   {
     "title": "Thanksgiving Day",
@@ -200,14 +200,14 @@ const events = [
     "date": "2025-10-14",
     "description": "Oct 14 - 17",
     "term": "Fall 2025",
-    "category": "Registration / Add-Drop"
+    "category": "Application & Admissions"
   },
   {
     "title": "Open House",
     "date": "2025-10-17",
     "description": "Also on Oct 18",
     "term": "Fall 2025",
-    "category": "Applications & Admissions"
+    "category": "Application & Admissions"
   },
   {
     "title": "Tuition payment deadline - accepted Fall 2025 students starting Nov 24",
@@ -235,21 +235,21 @@ const events = [
     "date": "2025-11-13",
     "description": "",
     "term": "Fall 2025",
-    "category": "Graduation"
+    "category": "Graduation & Degrees"
   },
   {
     "title": "Withdrawal deadline",
     "date": "2025-11-14",
     "description": "For 15-week courses",
     "term": "Fall 2025",
-    "category": "Registration / Add-Drop"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "Final transcript deadline for winter term applicants",
     "date": "2025-12-01",
     "description": "",
     "term": "Fall 2025",
-    "category": "Applications & Admissions"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "Tuition payment deadline - accepted Winter 2026 students starting Jan 5, 2026",
@@ -263,14 +263,14 @@ const events = [
     "date": "2025-12-12",
     "description": "Dec 12 to 17, excluding Sunday",
     "term": "Fall 2025",
-    "category": "Exams"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "End of fall term",
     "date": "2025-12-17",
     "description": "",
     "term": "Fall 2025",
-    "category": "Start/End of Term"
+    "category": "Term Dates & Schedules"
   },
   {
     "title": "Winter break",
@@ -291,35 +291,35 @@ const events = [
     "date": "2026-01-01",
     "description": "",
     "term": "Winter 2026",
-    "category": "Graduation"
+    "category": "Graduation & Degrees"
   },
   {
     "title": "Apply to graduate opens for Spring 2026 convocation",
     "date": "2026-01-02",
     "description": "",
     "term": "Winter 2026",
-    "category": "Graduation"
+    "category": "Graduation & Degrees"
   },
   {
     "title": "Add/drop period for winter begins for most full-time programs",
     "date": "2026-01-02",
     "description": "",
     "term": "Winter 2026",
-    "category": "Registration / Add-Drop"
+    "category": "Registration & Enrollment"
   },
   {
     "title": "Winter orientation",
     "date": "2026-01-02",
     "description": "",
     "term": "Winter 2026",
-    "category": "Start/End of Term"
+    "category": "Registration & Enrollment"
   },
   {
     "title": "Winter classes commence",
     "date": "2026-01-06",
     "description": "",
     "term": "Winter 2026",
-    "category": "Start/End of Term"
+    "category": "Term Dates & Schedules"
   },
   {
     "title": "Tuition payment deadline - winter 2026 continuing students",
@@ -333,14 +333,14 @@ const events = [
     "date": "2026-01-16",
     "description": "Receive tuition refund (most full-time programs)",
     "term": "Winter 2026",
-    "category": "Applications & Admissions"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "Final day to opt-out or add family to Saitsa health and dental plan",
     "date": "2026-01-16",
     "description": "",
     "term": "Winter 2026",
-    "category": "Applications & Admissions"
+    "category": "Registration & Enrollment"
   },
   {
     "title": "Tuition payment deadline for winter 2026 accepted students starting Feb 17",
@@ -382,21 +382,21 @@ const events = [
     "date": "2026-02-24",
     "description": "",
     "term": "Winter 2026",
-    "category": "Graduation"
+    "category": "Graduation & Degrees"
   },
   {
     "title": "Applications for winter and spring 2027 open",
     "date": "2026-03-01",
     "description": "",
     "term": "Winter 2026",
-    "category": "Applications & Admissions"
+    "category": "Application & Admissions"
   },
   {
     "title": "Winter withdrawal deadline",
     "date": "2026-03-20",
     "description": "Deadline for 15-week courses",
     "term": "Winter 2026",
-    "category": "Registration / Add-Drop"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "Tuition payment deadline for winter 2026 continuing students starting March 16",
@@ -410,21 +410,21 @@ const events = [
     "date": "2026-03-31",
     "description": "",
     "term": "Winter 2026",
-    "category": "Graduation"
+    "category": "Graduation & Degrees"
   },
   {
     "title": "Final transcript deadline for spring term applicants",
     "date": "2026-04-01",
     "description": "",
     "term": "Winter 2026",
-    "category": "Applications & Admissions"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "Apply to graduate opens for Fall 2026 conferral",
     "date": "2026-04-01",
     "description": "",
     "term": "Winter 2026",
-    "category": "Graduation"
+    "category": "Graduation & Degrees"
   },
   {
     "title": "Good Friday",
@@ -452,21 +452,21 @@ const events = [
     "date": "2026-04-20",
     "description": "April 20 - 23",
     "term": "Winter 2026",
-    "category": "Exams"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "End of winter term",
     "date": "2026-04-23",
     "description": "",
     "term": "Winter 2026",
-    "category": "Start/End of Term"
+    "category": "Term Dates & Schedules"
   },
   {
     "title": "Add/drop period for spring begins",
     "date": "2026-04-28",
     "description": "For most full-time programs",
     "term": "Winter 2026",
-    "category": "Registration / Add-Drop"
+    "category": "Registration & Enrollment"
   },
   {
     "title": "Tuition payment deadline for accepted students starting May 25",
@@ -480,7 +480,7 @@ const events = [
     "date": "2026-05-05",
     "description": "",
     "term": "Spring/Summer 2026",
-    "category": "Start/End of Term"
+    "category": "Term Dates & Schedules"
   },
   {
     "title": "Tuition payment deadline - accepted students starting June 8, 2026",
@@ -501,21 +501,21 @@ const events = [
     "date": "2026-05-15",
     "description": "Receive a tuition refund (most full-time programs)",
     "term": "Spring/Summer 2026",
-    "category": "Applications & Admissions"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "Add/drop period ends for most full-time programs",
     "date": "2026-05-15",
     "description": "",
     "term": "Spring/Summer 2026",
-    "category": "Registration / Add-Drop"
+    "category": "Registration & Enrollment"
   },
   {
     "title": "Apprentice registration opens",
     "date": "2026-05-15",
     "description": "",
     "term": "Spring/Summer 2026",
-    "category": "Applications & Admissions"
+    "category": "Application & Admissions"
   },
   {
     "title": "Victoria Day",
@@ -529,7 +529,7 @@ const events = [
     "date": "2026-06-01",
     "description": "",
     "term": "Spring/Summer 2026",
-    "category": "Applications & Admissions"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "Tuition payment deadline - all students starting in July",
@@ -543,7 +543,7 @@ const events = [
     "date": "2026-06-16",
     "description": "June 16 - 18",
     "term": "Spring/Summer 2026",
-    "category": "Graduation"
+    "category": "Graduation & Degrees"
   },
   {
     "title": "Spring mid-term break",
@@ -564,7 +564,7 @@ const events = [
     "date": "2026-07-02",
     "description": "",
     "term": "Spring/Summer 2026",
-    "category": "Start/End of Term"
+    "category": "Term Dates & Schedules"
   },
   {
     "title": "Calgary Stampede Parade",
@@ -578,7 +578,7 @@ const events = [
     "date": "2026-07-15",
     "description": "Deadline for 15-week courses",
     "term": "Spring/Summer 2026",
-    "category": "Registration / Add-Drop"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "Tuition payment deadline - continuing students only",
@@ -592,7 +592,7 @@ const events = [
     "date": "2026-08-01",
     "description": "",
     "term": "Spring/Summer 2026",
-    "category": "Applications & Admissions"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "Civic Holiday",
@@ -613,20 +613,20 @@ const events = [
     "date": "2026-08-10",
     "description": "Deadline for 8-week courses",
     "term": "Spring/Summer 2026",
-    "category": "Registration / Add-Drop"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "Final exam week",
     "date": "2026-08-18",
     "description": "August 18 - 21",
     "term": "Spring/Summer 2026",
-    "category": "Exams"
+    "category": "Exams & Academic Deadlines"
   },
   {
     "title": "End of spring/summer term",
     "date": "2026-08-21",
     "description": "",
     "term": "Spring/Summer 2026",
-    "category": "Start/End of Term"
+    "category": "Term Dates & Schedules"
   }
 ];
