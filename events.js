@@ -74,7 +74,7 @@ const events = [
     "date": "2025-08-01",
     "description": "For international students",
     "term": "Spring/Summer 2025",
-    "category": "Application & Admissions"
+    "category": "Applications & Admissions"
   },
   {
     "title": "Civic Holiday",
@@ -186,7 +186,7 @@ const events = [
     "date": "2025-10-01",
     "description": "",
     "term": "Fall 2025",
-    "category": "Application & Admissions"
+    "category": "Applications & Admissions"
   },
   {
     "title": "Thanksgiving Day",
@@ -200,14 +200,14 @@ const events = [
     "date": "2025-10-14",
     "description": "Oct 14 - 17",
     "term": "Fall 2025",
-    "category": "Application & Admissions"
+    "category": "Applications & Admissions"
   },
   {
     "title": "Open House",
     "date": "2025-10-17",
     "description": "Also on Oct 18",
     "term": "Fall 2025",
-    "category": "Application & Admissions"
+    "category": "Applications & Admissions"
   },
   {
     "title": "Tuition payment deadline - accepted Fall 2025 students starting Nov 24",
@@ -389,7 +389,7 @@ const events = [
     "date": "2026-03-01",
     "description": "",
     "term": "Winter 2026",
-    "category": "Application & Admissions"
+    "category": "Applications & Admissions"
   },
   {
     "title": "Winter withdrawal deadline",
@@ -515,7 +515,7 @@ const events = [
     "date": "2026-05-15",
     "description": "",
     "term": "Spring/Summer 2026",
-    "category": "Application & Admissions"
+    "category": "Applications & Admissions"
   },
   {
     "title": "Victoria Day",
