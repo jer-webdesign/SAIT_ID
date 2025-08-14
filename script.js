@@ -4,15 +4,16 @@ const termSelect = document.getElementById("term");
 const searchInput = document.getElementById("search");
 
 let eventsData = events; // Use the events array from events.js
-// let activeCategory = "All";
+let activeCategory = "All";
 // let activeCategory = "Applications & Admissions";
 // let activeCategory = "Registration & Enrollment";
 // let activeCategory = "Tuition & Payment";
 // let activeCategory = "Graduation & Degrees";
 // let activeCategory = "Holidays & Breaks";
 // let activeCategory = "Exams & Academic Deadlines";
-let activeCategory = "Term Dates & Schedules";
-let activeTerm = "All";
+// let activeCategory = "Term Dates & Schedules";
+// let activeTerm = "All";
+let activeTerm = "Spring/Summer 2025";
 let searchTerm = "";
 
 // Initialize the events display
