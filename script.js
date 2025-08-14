@@ -24,8 +24,8 @@ function renderEvents() {
 
   const filtered = eventsData.filter(event => {
     const matchesCategory = activeCategory === "All" || event.category === activeCategory;
-    const matchesTerm = activeTerm === "All" || event.term === activeTerm;
-    // const matchesTerm = activeTerm === "Spring/Summer 2025" || event.term === activeTerm;    
+    // const matchesTerm = activeTerm === "All" || event.term === activeTerm;
+    const matchesTerm = activeTerm === "Spring/Summer 2025" || event.term === activeTerm;    
 
     // Search by title or description (case-insensitive)
     const matchesSearch = searchTerm.trim() === "" ||
