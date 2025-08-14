@@ -8,7 +8,8 @@ let eventsData = events; // Use the events array from events.js
 // let activeCategory = "Applications & Admissions";
 // let activeCategory = "Registration & Enrollment";
 // let activeCategory = "Tuition & Payment";
-let activeCategory = "Graduation & Degrees";
+// let activeCategory = "Graduation & Degrees";
+let activeCategory = "Holidays & Breaks";
 let activeTerm = "All";
 let searchTerm = "";
 
