@@ -465,7 +465,7 @@ const events = [
     "title": "Add/drop period for spring begins",
     "date": "2026-04-28",
     "description": "For most full-time programs",
-    "term": "Winter 2026",
+    "term": "Spring/Summer 2026",
     "category": "Registration & Enrollment"
   },
   {
