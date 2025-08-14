@@ -12,8 +12,8 @@ let activeCategory = "All";
 // let activeCategory = "Holidays & Breaks";
 // let activeCategory = "Exams & Academic Deadlines";
 // let activeCategory = "Term Dates & Schedules";
-// let activeTerm = "All";
-let activeTerm = "Spring/Summer 2025";
+let activeTerm = "All";
+// let activeTerm = "Spring/Summer 2025";
 let searchTerm = "";
 
 // Initialize the events display
@@ -24,8 +24,8 @@ function renderEvents() {
 
   const filtered = eventsData.filter(event => {
     const matchesCategory = activeCategory === "All" || event.category === activeCategory;
-    // const matchesTerm = activeTerm === "All" || event.term === activeTerm;
-    const matchesTerm = activeTerm === "Spring/Summer 2025" || event.term === activeTerm;    
+    const matchesTerm = activeTerm === "All" || event.term === activeTerm;
+    // const matchesTerm = activeTerm === "Spring/Summer 2025" || event.term === activeTerm;    
 
     // Search by title or description (case-insensitive)
     const matchesSearch = searchTerm.trim() === "" ||
