@@ -14,7 +14,8 @@ let activeCategory = "All";
 // let activeCategory = "Term Dates & Schedules";
 // let activeTerm = "All";
 // let activeTerm = "Spring/Summer 2025";
-let activeTerm = "Fall 2025";
+// let activeTerm = "Fall 2025";
+let activeTerm = "Winter 2026";
 let searchTerm = "";
 
 // Initialize the events display
